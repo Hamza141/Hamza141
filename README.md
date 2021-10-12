@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+[![wakatime](https://wakatime.com/badge/user/d2031e1b-ed8e-43c5-aeeb-e670dbec4e8a.svg)](https://wakatime.com/@d2031e1b-ed8e-43c5-aeeb-e670dbec4e8a)
 
 <!--
 **Hamza141/Hamza141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
